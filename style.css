@@ -2,6 +2,13 @@ body {
     background-color: #0f3e84;
     padding: 20px;
     margin: 0;
+<<<<<<< HEAD
     color: #0f3e84;
     text-decoration: none;
 }
+=======
+    color: #fff;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+}
+>>>>>>> my_branch
